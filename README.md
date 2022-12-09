@@ -3,11 +3,13 @@
 > Sou Analista e Desenvolvedor de Sistemas com Especialização em Segurança da Informação. 
 > <br>
 > Jogador de Free Fire e Dota.
------------------------------------------------------
+---
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Manutenção em software.
 - 🎓 &nbsp; Estudando **Cyber Security** com previsão de termino em 03/23.
 - 🌱 &nbsp; Aprendendo mais sobre **Javascript e EasyUI**.
-
+- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento de Software Seguro**.
+---
 ## 🚀 Minhas Skills
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">  
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony"/></code>
