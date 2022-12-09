@@ -2,10 +2,11 @@
 
 > Sou Analista e Desenvolvedor de Sistemas com Especialização em Segurança da Informação. 
 > <br>
-> Estudando neste momento Cyber Security.
-> <br>
 > Jogador de Free Fire e Dota.
 -----------------------------------------------------
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Cyber Security** com previsão de termino em 03/23.
+- 🌱 &nbsp; Aprendendo mais sobre **Javascript e EasyUI**.
 
 ## 🚀 Minhas Skills
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">  
